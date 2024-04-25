@@ -1,0 +1,18 @@
+.login-wrapper{
+    border: 3px solid ;
+    width: 40%;
+    height: 40%;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+   
+}
+.login-wrapper-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}

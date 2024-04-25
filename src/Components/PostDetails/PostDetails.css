@@ -1,0 +1,20 @@
+.post-details-wrapper{
+    gap: 10px;
+    padding-top: 10px; 
+}
+.post-details{
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    background-color:burlywood;
+    border-radius: 20px;
+    padding: 20px;
+    
+}
+.text{
+    align-items: center;
+    justify-content: space-between;
+    width: fit-content;
+    gap: 10px;
+   
+}

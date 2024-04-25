@@ -1,0 +1,29 @@
+.icon{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.icon i{
+    cursor: pointer;
+}
+.like{
+    color: red;
+}
+.save{
+    color: red;
+}
+.image-size{
+    width:100%
+}
+.post-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 40%;
+}
+.text-wrapper{
+    text-wrap: wrap;
+}

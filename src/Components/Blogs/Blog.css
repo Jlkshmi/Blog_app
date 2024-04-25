@@ -1,0 +1,57 @@
+.post-wrapper{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.post-card{
+    width: 50%;
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 20px;
+}
+.icon-wrapper{
+    background: gray;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    cursor: pointer;
+    top:600px ;
+    right: 30px;
+    
+    
+    
+    
+}
+.add-icon{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: black;
+}
+
+.modal-head{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+   
+}
+
+.label-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.modal{
+    background-color: aqua;
+}
+.modal-image{
+    width: 100px;
+}
